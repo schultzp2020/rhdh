@@ -1,5 +1,5 @@
 app:
-  title: Janus IDP Backstage Showcase
+  title: Red Hat Developer Hub
   baseUrl: http://localhost:3000
   # Plugin: Segment
   analytics:
