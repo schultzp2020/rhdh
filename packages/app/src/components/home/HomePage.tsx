@@ -97,7 +97,7 @@ export const HomePage = () => {
   return (
     <SearchContextProvider>
       <Page themeId="home">
-        <Header title="Welcome back!" />
+        <Header title="Welcome to Red Hat Developer Hub!" />
         <Content>
           <Box
             sx={{
