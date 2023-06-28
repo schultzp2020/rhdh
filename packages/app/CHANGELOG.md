@@ -1,5 +1,15 @@
 # app
 
+## 0.2.0
+
+### Minor Changes
+
+- 5a02b31: Support for Bitbucket has been added.
+
+  To enable Bitbucket support, please provide the host for your bitbucket server instance, and the relevant credentials to that instance. Please read [Getting Started](../showcase-docs/getting-started.md#running-locally-with-the-optional-plugins) for more details.
+
+- d947683: The [Datadog](https://github.com/RoadieHQ/roadie-backstage-plugins/tree/main/plugins/frontend/backstage-plugin-datadog) has been added with the `<EntityDatadogContent />` in the Entity Page monitoring tab.
+
 ## 0.1.0
 
 ### Minor Changes
